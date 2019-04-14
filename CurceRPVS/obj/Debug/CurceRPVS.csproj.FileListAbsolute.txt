@@ -1,0 +1,13 @@
+C:\Users\Admin\Source\Repos\CurceRPVS\CurceRPVS\bin\Debug\CurceRPVS.exe.config
+C:\Users\Admin\Source\Repos\CurceRPVS\CurceRPVS\bin\Debug\CurceRPVS.exe
+C:\Users\Admin\Source\Repos\CurceRPVS\CurceRPVS\bin\Debug\CurceRPVS.pdb
+C:\Users\Admin\Source\Repos\CurceRPVS\CurceRPVS\obj\Debug\CurceRPVS.csprojAssemblyReference.cache
+C:\Users\Admin\Source\Repos\CurceRPVS\CurceRPVS\obj\Debug\CurceRPVS.Form1.resources
+C:\Users\Admin\Source\Repos\CurceRPVS\CurceRPVS\obj\Debug\CurceRPVS.Properties.Resources.resources
+C:\Users\Admin\Source\Repos\CurceRPVS\CurceRPVS\obj\Debug\CurceRPVS.csproj.GenerateResource.cache
+C:\Users\Admin\Source\Repos\CurceRPVS\CurceRPVS\obj\Debug\CurceRPVS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\CurceRPVS\CurceRPVS\obj\Debug\CurceRPVS.exe
+C:\Users\Admin\Source\Repos\CurceRPVS\CurceRPVS\obj\Debug\CurceRPVS.pdb
+C:\Users\Admin\Source\Repos\CurceRPVS\CurceRPVS\obj\Debug\CurceRPVS.View.Load.resources
+C:\Users\Admin\Source\Repos\CurceRPVS\CurceRPVS\obj\Debug\CurceRPVS.View.Options.resources
+C:\Users\Admin\Source\Repos\CurceRPVS\CurceRPVS\obj\Debug\CurceRPVS.View.Setting.resources
