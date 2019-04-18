@@ -52,6 +52,7 @@
             this.panelTable = new System.Windows.Forms.Panel();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.phisicsBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.HelpMenu = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.contextMenuStrip1.SuspendLayout();
             this.panelGraf.SuspendLayout();
@@ -66,7 +67,8 @@
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.главнаяToolStripMenuItem,
             this.видToolStripMenuItem,
-            this.импортToolStripMenuItem});
+            this.импортToolStripMenuItem,
+            this.HelpMenu});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(800, 24);
@@ -86,19 +88,19 @@
             // settingMenu
             // 
             this.settingMenu.Name = "settingMenu";
-            this.settingMenu.Size = new System.Drawing.Size(180, 22);
+            this.settingMenu.Size = new System.Drawing.Size(134, 22);
             this.settingMenu.Text = "Настройки";
             this.settingMenu.Click += new System.EventHandler(this.settingMenu_Click_1);
             // 
             // toolStripSeparator1
             // 
             this.toolStripSeparator1.Name = "toolStripSeparator1";
-            this.toolStripSeparator1.Size = new System.Drawing.Size(177, 6);
+            this.toolStripSeparator1.Size = new System.Drawing.Size(131, 6);
             // 
             // closeMenu
             // 
             this.closeMenu.Name = "closeMenu";
-            this.closeMenu.Size = new System.Drawing.Size(180, 22);
+            this.closeMenu.Size = new System.Drawing.Size(134, 22);
             this.closeMenu.Text = "Выход";
             this.closeMenu.Click += new System.EventHandler(this.closeMenu_Click);
             // 
@@ -231,6 +233,13 @@
             // 
             this.phisicsBindingSource.DataSource = typeof(CurceRPVS.Model.Phisics);
             // 
+            // HelpMenu
+            // 
+            this.HelpMenu.Name = "HelpMenu";
+            this.HelpMenu.Size = new System.Drawing.Size(68, 20);
+            this.HelpMenu.Text = "Помощь";
+            this.HelpMenu.Click += new System.EventHandler(this.HelpMenu_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -278,6 +287,7 @@
         private System.Windows.Forms.Panel panelTable;
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.BindingSource phisicsBindingSource;
+        private System.Windows.Forms.ToolStripMenuItem HelpMenu;
     }
 }
 

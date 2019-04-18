@@ -129,5 +129,10 @@ namespace CurceRPVS
             }
             
         }
+
+        private void HelpMenu_Click(object sender, EventArgs e)
+        {
+            Help.ShowHelp(null, "Help.chm", "xyz_index.html");
+        }
     }
 }
